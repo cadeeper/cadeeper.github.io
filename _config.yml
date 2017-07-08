@@ -50,8 +50,8 @@ nav:
     - { 标签: '/blog/tags/' }
   与我相关:
     - '/about/'
-  Github Project:
-    - 'http://github.com/cadeeper'
+  #Github Project:
+  #  - 'http://github.com/cadeeper'
 
 # Where are tags and categories displayed
 tag_page: '/blog/tags/'
